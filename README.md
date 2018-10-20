@@ -20,6 +20,6 @@ A public dataset, released by Expedia, was retrieved from Kaggle (https://www.ka
 
 
 ## Authors: 
-* Marie Corradi @MarieCo
-* Elena Garcia @egarcialara
-* Alberto Gil @tropicalberto
+* Marie Corradi @MarieCo (https://github.com/MariaEscala)
+* Elena Garcia @egarcialara (https://github.com/egarcialara)
+* Alberto Gil @tropicalberto (https://github.com/tropicalberto)
