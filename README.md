@@ -13,7 +13,7 @@ The trained algorithms include:
 * LambdaMART, based on Gradient Boosted Regression trees
 * Coordinate Ascent
 
-The overall implementation is exhaustively detailed in the report included in the report directory.
+The overall implementation is exhaustively detailed in the report included in the report directory: https://github.com/tropicalberto/expedia_ranking_hotels/blob/master/report/report___data_mining__hotel_recommender_system.pdf
 
 ## Dataset
 A public dataset, released by Expedia, was retrieved from Kaggle (https://www.kaggle.com/c/expedia-personalized-sort)
