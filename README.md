@@ -6,7 +6,7 @@ Repository for the Data Mining course (VU University, 2017)
 We designed and trained a recommender system based on a Machine Learning approach. The algorithms are able to predict
 what hotel a user is most likely to book. The whole implementation is based in Python2, using data science packages (scikit-learn, numpy, pandas, ...).
 
-The algorithms trained include:
+The trained algorithms include:
 
 * Random Forest regression (RF)
 * Support Vector Machine (SVM)
