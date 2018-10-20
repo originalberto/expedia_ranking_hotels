@@ -3,8 +3,21 @@
 Repository for the Data Mining course (VU University, 2017)
 
 ## Description
-We designed and trained a recommender system based on a Machine Learning approach. The algorithm is able to predict
-what hotel a user is most likely to book. The task is based on a Kaggle competition https://www.kaggle.com/c/expedia-personalized-sort
+We designed and trained a recommender system based on a Machine Learning approach. The algorithms are able to predict
+what hotel a user is most likely to book. The whole implementation is based in Python2, using data science packages (scikit-learn, numpy, pandas, ...).
+
+The algorithms trained include:
+
+* Random Forest regression (RF)
+* Support Vector Machine (SVM)
+* LambdaMART, based on Gradient Boosted Regression trees
+* Coordinate Ascent
+
+## Dataset
+A public dataset, released by Expedia, was retrieved from Kaggle (https://www.kaggle.com/c/expedia-personalized-sort)
+
+## Design
+
 
 ## Authors: 
 * Marie Corradi @MarieCo
