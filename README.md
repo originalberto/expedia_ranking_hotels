@@ -16,8 +16,6 @@ The algorithms trained include:
 ## Dataset
 A public dataset, released by Expedia, was retrieved from Kaggle (https://www.kaggle.com/c/expedia-personalized-sort)
 
-## Design
-
 
 ## Authors: 
 * Marie Corradi @MarieCo
