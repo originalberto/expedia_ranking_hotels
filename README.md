@@ -13,6 +13,8 @@ The algorithms trained include:
 * LambdaMART, based on Gradient Boosted Regression trees
 * Coordinate Ascent
 
+The overall implementation is exhaustively detailed in the report included in the report directory.
+
 ## Dataset
 A public dataset, released by Expedia, was retrieved from Kaggle (https://www.kaggle.com/c/expedia-personalized-sort)
 
